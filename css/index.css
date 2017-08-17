@@ -73,6 +73,10 @@ header {
     padding: 1.5em;
 }
 .foto-home {
+    -moz-border-radius: 10em;
+    -ms-border-radius: 10em;
+    -webkit-border-radius: 10em;
+    border-radius: 10% 50% / 50% 10%;
     height: 200px;
 }
 .saudacao p {
