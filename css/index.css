@@ -1,3 +1,77 @@
+header {
+    position: relative;    
+}
+.boas-praticas {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+}
+.codigo-limpo {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+.css3 {
+    position: absolute;
+    top: 28%;
+    left: 30%;
+}
+.html5 {
+    position: absolute;
+    top: 20%;
+    left: 80%;
+}
+.javascript {
+    position: absolute;
+    top: 5%;
+    left: 60%;
+}
+.acessibilidade {
+    position: absolute;
+    top: 17%;
+    left: 20%;
+}
+.responsivo {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.otimizacoes {
+    position: absolute;
+    top: 30%;
+    left: 68%;
+}
+.agilidade {
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+.design {
+    position: absolute;
+    top: 15%;
+    left: 65%;  
+}
+
+.eficiencia {
+    position: absolute;
+    top: 9%;
+    left: 75%;
+}
+.palavra-home {
+    font-weight: bold;
+    color: #D5447E;
+    font-family: 'Shadows Into Light', cursive;
+}
+.inicio-post {
+    background-color: #F2FFFC;
+    position: absolute;
+    top: 4em;
+    color: #000;
+    right: 4em;
+    height: 8em;
+    left: 30%;
+    padding: 1.5em;
+}
 .foto-home {
     height: 200px;
 }
@@ -66,6 +140,13 @@
     background-color: #999;
     color: #FFF;
     border-bottom: .5em solid #851944;
+    position: relative;
+}
+.blog .mais-recente {
+    background-color: #F2FFFC;
+}
+.blog li {
+    width: 30%;
 }
 .blog small {
     position: relative;
@@ -75,6 +156,7 @@
     color: #FCF;
     padding: .5em;
     display: block;
+
 }
 footer {
     background-color: #000;
